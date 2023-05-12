@@ -28,7 +28,8 @@ Foi indicado para estudar os seguintes itens:
   
  <a href="https://cursos.alura.com.br/certificate/525520cc-7b49-458c-919c-c0ac895b03ed">(Certificação de Victor)
    
-   <img width="1440" alt="Captura de Tela 2023-05-10 às 13 53 30" src="https://github.com/ceerqueira/test/assets/50030996/83f98b26-2dff-4736-8c56-17a5cbcb3ffb">
+
+<img width="1440" alt="Captura de Tela 2023-05-12 às 15 05 48" src="https://github.com/ceerqueira/test/assets/50030996/fbb1da57-d59a-485a-be09-6e2322d1de01">
 
 
    De modo geral, podemos usar três abordagens nos testes:

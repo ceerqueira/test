@@ -1,14 +1,18 @@
-# java-test
-Código desenvolvido durante os curso de Java Testes do Alura
+# Índice 
 
-<a href="https://cursos.alura.com.br/course/java-collections">Java Collections: Dominando Listas, Sets e Mapas<a>
-  
- <a href="https://cursos.alura.com.br/certificate/ea00b5f7-af32-42d8-be58-54323d9c2e82">(Certificação de Victor)
-  
-<a href="https://cursos.alura.com.br/course/java-util-lambdas">Java e java.util: Coleções, Wrappers e Lambda expressions<a>
-  
-<a href="https://cursos.alura.com.br/certificate/f6108291-e63d-4ec9-bb39-8289d8b27fb2">(Certificação de Victor)
-# Testes
+* [Índice](#índice)
+* [java Testes](#java-testes)
+* [TDD e Java: testes automatizados com JUnit](#TDD-e-Java-testes-automatizados-com-JUnit)
+* [Status do Projeto](#status-do-Projeto)
+* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
+* [Acesso ao Projeto](#acesso-ao-projeto)
+* [Tecnologias utilizadas](#tecnologias-utilizadas)
+* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+* [Licença](#licença)
+* [Conclusão](#conclusão)
+
+# Java Testes
   
   Seguindo o cronograma de estudo do <a href="https://techguide.sh/pt-BR/path/java/">Tech Guide em Java<a>
 
@@ -43,4 +47,7 @@ Foi indicado para estudar os seguintes itens:
 
    ![TDD](https://github.com/ceerqueira/test/assets/50030996/d0a2ab8a-597c-4b04-8e51-46680f200cd3)
 Também vimos que é possível começar o processo pela escrita do teste com a abordagem TDD (Desenvolvimento Guiado por Teste). Nela, percebemos que o teste serve de rascunho para modelarmos o design do nosso código e depois partir para a implementação. Nessa etapa, também aprendemos a lidar com as exceptions e verificá-las.
+   
+   
+# Testes de Integração: testes de SQL e DAOs automatizados em Java
 

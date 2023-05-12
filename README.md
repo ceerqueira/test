@@ -19,3 +19,27 @@ Foi indicado para estudar os seguintes itens:
  - Usar testes de integração
  - Usar testes de comportamento (behavior)
  - Usar mocks
+  
+  
+  
+# TDD e Java: testes automatizados com JUnit
+  
+  <a href="https://cursos.alura.com.br/course/tdd-java-testes-automatizados-junit">TDD e Java: testes automatizados com JUnit<a>
+  
+ <a href="https://cursos.alura.com.br/certificate/525520cc-7b49-458c-919c-c0ac895b03ed">(Certificação de Victor)
+   
+   <img width="1440" alt="Captura de Tela 2023-05-10 às 13 53 30" src="https://github.com/ceerqueira/test/assets/50030996/83f98b26-2dff-4736-8c56-17a5cbcb3ffb">
+
+
+   De modo geral, podemos usar três abordagens nos testes:
+   
+   - Na primeira, vamos chamar um método que devolve um valor e testar se esse valor está correto. É o caso do BonusServiceTest, cujo método service.calcularBonus devolve um BigDecimal, que por sua vez é verificado pelo assertEquals. Nessa categoria de teste, chamamos um método, passamos um parâmetro, obtemos um retorno e o validamos.
+   
+   - A segunda abordagem envolve testar um objeto modificado pelo método. Um exemplo é a classe ReajusteService, na qual chamamos um método que não devolve nenhum valor (void), mas modifica um objeto. Nesse caso, fazemos o assert em cima do objeto que foi o nosso parâmetro para verificar se ele nos dá o valor esperado.
+   - A terceira é a que fizemos agora: aquela que lança uma exceptione na qual simulamos se ela de fato acontece.
+
+   
+
+   ![TDD](https://github.com/ceerqueira/test/assets/50030996/d0a2ab8a-597c-4b04-8e51-46680f200cd3)
+Também vimos que é possível começar o processo pela escrita do teste com a abordagem TDD (Desenvolvimento Guiado por Teste). Nela, percebemos que o teste serve de rascunho para modelarmos o design do nosso código e depois partir para a implementação. Nessa etapa, também aprendemos a lidar com as exceptions e verificá-las.![image](https://github.com/ceerqueira/test/assets/50030996/b37f2b18-21ae-4bdb-9b6c-3ecb063b88cf)
+

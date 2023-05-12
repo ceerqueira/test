@@ -3,14 +3,8 @@
 * [Índice](#índice)
 * [java Testes](#java-testes)
 * [TDD e Java: testes automatizados com JUnit](#TDD-e-Java-testes-automatizados-com-JUnit)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Acesso ao Projeto](#acesso-ao-projeto)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
-* [Licença](#licença)
-* [Conclusão](#conclusão)
+* [Testes de Integração: testes de SQL e DAOs automatizados em Java](#Testes-de-Integração-testes-de-SQL-e-DAOs-automatizados-em-Java)
+
 
 # Java Testes
   

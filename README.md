@@ -41,5 +41,5 @@ Foi indicado para estudar os seguintes itens:
    
 
    ![TDD](https://github.com/ceerqueira/test/assets/50030996/d0a2ab8a-597c-4b04-8e51-46680f200cd3)
-Também vimos que é possível começar o processo pela escrita do teste com a abordagem TDD (Desenvolvimento Guiado por Teste). Nela, percebemos que o teste serve de rascunho para modelarmos o design do nosso código e depois partir para a implementação. Nessa etapa, também aprendemos a lidar com as exceptions e verificá-las.![image](https://github.com/ceerqueira/test/assets/50030996/b37f2b18-21ae-4bdb-9b6c-3ecb063b88cf)
+Também vimos que é possível começar o processo pela escrita do teste com a abordagem TDD (Desenvolvimento Guiado por Teste). Nela, percebemos que o teste serve de rascunho para modelarmos o design do nosso código e depois partir para a implementação. Nessa etapa, também aprendemos a lidar com as exceptions e verificá-las.
 

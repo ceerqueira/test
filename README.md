@@ -45,6 +45,11 @@ Também vimos que é possível começar o processo pela escrita do teste com a a
    
 # Testes de Integração: testes de SQL e DAOs automatizados em Java
    
+   <a href="https://cursos.alura.com.br/course/teste-integracao-sql-daos-automatizados-java">Testes de Integração: testes de SQL e DAOs automatizados em Java<a>
+  
+ <a href="https://cursos.alura.com.br/certificate/c68445b4-1b7c-4f43-ab1a-a146387d91c4">(Certificação de Victor)
+   
+   
    ![pasted image 0](https://github.com/ceerqueira/test/assets/50030996/bf2527b8-76a6-4857-89ab-b05e0d8ee79d)
    
    

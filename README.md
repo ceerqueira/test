@@ -47,7 +47,8 @@ Também vimos que é possível começar o processo pela escrita do teste com a a
    
    ![pasted image 0](https://github.com/ceerqueira/test/assets/50030996/bf2527b8-76a6-4857-89ab-b05e0d8ee79d)
    
-    aprendemos como fazer testes de integração em classes DAO, projetos tradicionais e legados. O objetivo foi escrever os testes automatizados para as classes DAO que já estavam desenvolvidas em um projeto com determinadas tecnologias. Inicialmente, foram encontrados problemas na criação de um teste automatizado, devido ao uso de framework para injeção de dependências e recebimento do EntityManager. A solução foi trocar a injeção de dependências e criar a classe JPAUtil para isolar a criação do EntityManager.
+   
+Aprendemos como fazer testes de integração em classes DAO, projetos tradicionais e legados. O objetivo foi escrever os testes automatizados para as classes DAO que já estavam desenvolvidas em um projeto com determinadas tecnologias. Inicialmente, foram encontrados problemas na criação de um teste automatizado, devido ao uso de framework para injeção de dependências e recebimento do EntityManager. A solução foi trocar a injeção de dependências e criar a classe JPAUtil para isolar a criação do EntityManager.
 
 Em seguida, foram escritos os testes para as classes DAO, que incluíam a criação de entidades, objetos dessas entidades e a persistência no banco de dados. Foram utilizados recursos do JUnit para isolar a infraestrutura que cada teste precisava, incluindo a criação do EntityManager, da classe DAO, begin e rollback da transação. Também foi discutido sobre a testabilidade dos métodos de insert, update e delete.
 

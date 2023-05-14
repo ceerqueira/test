@@ -4,6 +4,7 @@
 * [java Testes](#java-testes)
 * [TDD e Java: testes automatizados com JUnit](#TDD-e-Java-testes-automatizados-com-JUnit)
 * [Testes de Integração: testes de SQL e DAOs automatizados em Java](#Testes-de-Integração-testes-de-SQL-e-DAOs-automatizados-em-Java)
+* [Mocks em Java: conhecendo o Mockito](#Mocks-em-Java-conhecendo-o-Mockito)
 
 
 # Java Testes
@@ -58,6 +59,13 @@ Aprendemos como fazer testes de integração em classes DAO, projetos tradiciona
 Em seguida, foram escritos os testes para as classes DAO, que incluíam a criação de entidades, objetos dessas entidades e a persistência no banco de dados. Foram utilizados recursos do JUnit para isolar a infraestrutura que cada teste precisava, incluindo a criação do EntityManager, da classe DAO, begin e rollback da transação. Também foi discutido sobre a testabilidade dos métodos de insert, update e delete.
 
 Por fim, foi apresentado o conceito de testes Data Builder para isolar a criação dos objetos em classes que seguem o padrão builder, facilitando a escrita do teste e deixando-o mais legível. O treinamento foi realizado em um projeto feito com Spring Boot, que serviu para facilitar a execução da aplicação, mas sem o uso dos recursos do Spring Boot.
+   
+   
+# Mocks em Java: conhecendo o Mockito
 
- 
+   Mas o que são Mocks?
+   
+   O Mock é uma classe que simula os comportamentos de outra classe. Ele serve para cenários em que queremos testar as lógicas e os algoritmos de uma classe que tem dependência de outra classe, mas isolando essas dependências.
+
+Com os Mocks, conseguimos escrever um teste de unidade em vez de ter que usar um teste de integração, ou seja, que vai se integrar às dependências.
 

@@ -5,7 +5,7 @@
 * [TDD e Java: testes automatizados com JUnit](#TDD-e-Java-testes-automatizados-com-JUnit)
 * [Testes de Integração: testes de SQL e DAOs automatizados em Java](#Testes-de-Integração-testes-de-SQL-e-DAOs-automatizados-em-Java)
 * [Mocks em Java: conhecendo o Mockito](#Mocks-em-Java-conhecendo-o-Mockito)
-* [Certificação](#Certificação)
+* [Certificação](#Certificações)
 
 
 # Java Testes
@@ -78,15 +78,16 @@ Com os Mocks, conseguimos escrever um teste de unidade em vez de ter que usar um
    
 # Certificações
    
-     <a href="https://cursos.alura.com.br/course/tdd-java-testes-automatizados-junit">TDD e Java: testes automatizados com JUnit<a>
+   
+ <a href="https://cursos.alura.com.br/course/tdd-java-testes-automatizados-junit">TDD e Java: testes automatizados com JUnit<a>
   
  <a href="https://cursos.alura.com.br/certificate/525520cc-7b49-458c-919c-c0ac895b03ed">(Certificação de Victor)
    
-   <a href="https://cursos.alura.com.br/course/teste-integracao-sql-daos-automatizados-java">Testes de Integração: testes de SQL e DAOs automatizados em Java<a>
+ <a href="https://cursos.alura.com.br/course/teste-integracao-sql-daos-automatizados-java">Testes de Integração: testes de SQL e DAOs automatizados em Java<a>
   
  <a href="https://cursos.alura.com.br/certificate/c68445b4-1b7c-4f43-ab1a-a146387d91c4">(Certificação de Victor)
    
-   <a href="https://cursos.alura.com.br/course/mocks-java-mockito">Mocks em Java: conhecendo o Mockito<a>
+ <a href="https://cursos.alura.com.br/course/mocks-java-mockito">Mocks em Java: conhecendo o Mockito<a>
   
  <a href="https://cursos.alura.com.br/certificate/b3d8dd66-738b-42c0-adef-1c1e87590e4a">(Certificação de Victor)
    
